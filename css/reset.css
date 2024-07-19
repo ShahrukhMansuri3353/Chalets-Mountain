@@ -1,0 +1,26 @@
+:root{
+	--fs18:18px;
+	--fs16:16px;
+	--fs45:45px;
+	--fs20:20px;
+	--fs65:65px;
+	--fs24:24px;
+	--fs32:32px;
+	--blue:#0AB6F4;
+	--white:#fff;
+	--fs12:12px;
+	--fs14:14px;
+	--light_blue:#009DD5;
+	--black:black;
+	--cream:#F1F0ED;
+	--gray:#808080;
+	--dark-blue:#00314F;
+	--light-gray:#dbe0e5;
+	--dark-transparent: rgba(0,0,0,0.7)
+}
+.fs18{
+	font-size:var(--fs18);
+}
+.fs45{
+	font-size:var(--45px);
+}
